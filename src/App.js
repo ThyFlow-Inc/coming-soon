@@ -18,10 +18,10 @@ class App extends React.Component {
               in no time!
             </p>
           </div>
-          <input className="cta1" type="text" placeholder="Notify me First" />
+          {/* <input className="cta1" type="text" placeholder="Notify me First" />
           <a href="mailto:support@thyflow.com">
             <div className="cta">sign me up</div>
-          </a>
+          </a> */}
         </div>
       </div>
     );
