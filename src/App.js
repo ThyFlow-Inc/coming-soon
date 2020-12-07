@@ -1,8 +1,11 @@
 import React from "react";
-import "./App.css";
+
 import logo from './assets/big_logo.png'; // Tell webpack this JS file uses this image
 
+
+
 class App extends React.Component {
+  
   render = () => {
     return (
       <div className="card">
@@ -18,7 +21,7 @@ class App extends React.Component {
               in no time!
             </p>
           </div>
-          {/* <input className="cta1" type="text" placeholder="Notify me First" />
+                    {/* <input className="cta1" type="text" placeholder="Notify me First" />
           <a href="mailto:support@thyflow.com">
             <div className="cta">sign me up</div>
           </a> */}
