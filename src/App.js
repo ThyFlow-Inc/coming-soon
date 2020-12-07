@@ -1,5 +1,5 @@
 import React from "react";
-
+import './App.css'
 import logo from './assets/big_logo.png'; // Tell webpack this JS file uses this image
 
 
